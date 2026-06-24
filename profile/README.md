@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="avatar-mark.png" alt="Settlement Radio" width="100%" />
+  <img src="wordmark-horizontal.svg" alt="Settlement Radio" width="100%" />
 
   # Settlement Radio
   **Always-on radio from the human future — the one signal that holds a scattered
