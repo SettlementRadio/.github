@@ -1,7 +1,6 @@
 <div align="center">
   <img src="wordmark-horizontal.svg" alt="Settlement Radio" width="100%" />
 
-  # Settlement Radio
   **Always-on radio from the human future — the one signal that holds a scattered
   humanity together across the dark between worlds.**
 
